@@ -185,6 +185,9 @@ http://localhost:8888/?token=44cd3335e311c181531f38031095a217b01127d8152aa3fd
 This **DOES WORK**:  
 http://184.105.6.151:8888/?token=44cd3335e311c181531f38031095a217b01127d8152aa3fd
 
+Prior to this you also, need to run the following command in order to be able to open the jupyter notebook in the browser
+sudo ufw allow 8888
+
 :boom:  Hooray, it works! :smiley:
 
 ---
